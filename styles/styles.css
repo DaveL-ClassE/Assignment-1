@@ -1,14 +1,17 @@
-body {
-  background-color: white;
-}
 h1 {
   color: blue;
   text-align: center;
+  font-size: 48px;
 }
 p {
   color: black;
   text-align: left;
+  font-size: 20px;
 }
 #me {
+  float: left;
+  margin: 0 15px 0 15px;
+}
+#ad {
   float: right;
 }
